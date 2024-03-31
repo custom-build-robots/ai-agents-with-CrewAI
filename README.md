@@ -2,7 +2,7 @@
 This program uses CrewAI to build a web-app using three agents doing some research stuff in the internet.
 
 ## Blog Post
-To get some more information about the project just visit my blog: [https://ai-box.eu/top-story/llm-agenten-arbeiten-eigenstaendig-mit-crewai-automatisieren/1306/](LLM agents work independently - automate with CrewAI)
+To get some more information about the project just visit my blog: https://ai-box.eu/top-story/llm-agenten-arbeiten-eigenstaendig-mit-crewai-automatisieren/1306/
 
 
 ![CrewAI Web-APP](https://ai-box.eu/wp-content/uploads/2024/03/CrewAI_AI_agent_web_app.jpg)
